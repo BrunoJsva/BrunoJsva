@@ -9,7 +9,7 @@ Sou um profissional com experiência consolidada em análise e desenvolvimento d
 - 👨‍💻 Atualmente na **MJV Technology & Innovation**, contribuindo para projetos de grande porte.
 - 🌱 Sempre aprendendo e aprimorando minhas habilidades em arquitetura de microsserviços e novas tecnologias do ecossistema Java.
 - 🎯 Focado em entregas de qualidade, utilizando **Scrum** para garantir eficiência e colaboração.
-- 📫 Você pode me encontrar no LinkedIn: [Bruno Silva](https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN)
+- 📫 Você pode me encontrar no LinkedIn: [Bruno Silva](https://www.linkedin.com/in/bruno-silva-4746b7187/)
 
 ---
 
@@ -59,4 +59,4 @@ Sou um profissional com experiência consolidada em análise e desenvolvimento d
 
 ## 📫 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+<a href="https://www.linkedin.com/in/bruno-silva-4746b7187/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
