@@ -6,7 +6,7 @@
 
 Sou um profissional com experiência consolidada em análise e desenvolvimento de sistemas, com foco principal em **Back-end**. Minha carreira tem sido uma jornada de evolução contínua, desde a correção e manutenção de sistemas como Desenvolvedor Júnior até a implementação de novas funcionalidades e arquiteturas como Pleno.
 
-- 👨‍💻 Atualmente na **MJV Technology & Innovation**, contribuindo para projetos de grande porte.
+- 👨‍💻 Atualmente na **MJV Technology & Innovation**, contribuindo para projetos de grande porte, desde de 12/2021.
 - 🌱 Sempre aprendendo e aprimorando minhas habilidades em arquitetura de microsserviços e novas tecnologias do ecossistema Java.
 - 🎯 Focado em entregas de qualidade, utilizando **Scrum** para garantir eficiência e colaboração.
 - 📫 Você pode me encontrar no LinkedIn: [Bruno Silva](https://www.linkedin.com/in/bruno-silva-4746b7187/)
